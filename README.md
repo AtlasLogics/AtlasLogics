@@ -1,4 +1,4 @@
-### Who am i?
+### Who am I?
 
 A Computer Science Engineer fascinated by anything that concerns BOT and ANTIBOT protections or bypassing.
 
