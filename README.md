@@ -1,6 +1,7 @@
 ### Who am I?
 
-A Computer Science Engineer fascinated by anything that concerns BOT and ANTIBOT protections or bypassing.C
+A Computer Science Engineer fascinated by anything that concerns BOT and ANTIBOT protections or bypassing.
+
 Conspicuously intrested in Signal Theory, signals are the key to every problems.
 
 # Projects
