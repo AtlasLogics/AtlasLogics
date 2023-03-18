@@ -1,10 +1,11 @@
 ### Who am I?
 
-A Computer Science Engineer fascinated by anything that concerns BOT and ANTIBOT protections or bypassing.
+A Computer Science and Automation Engineer from Politecnico Di Bari.
+I am fascinated by anything that concerns BOT and ANTIBOT protections or bypassing.
 
-Conspicuously intrested in Signal Theory.
+Conspicuously intrested in Signal Theory, Control Theory, and Image Processing.
 
-# Projects
+# Public Projects
 
 <li> <a href="https://github.com/MIMIC-LOGICS">MIMIC </li>
 
