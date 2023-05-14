@@ -3,7 +3,7 @@
 A Computer Science and Automation Engineer from Politecnico Di Bari.
 I am fascinated by anything that concerns BOT and ANTIBOT protections or bypassing.
 
-Conspicuously intrested in Signal Theory, Control Theory, and Computer Vision.
+Conspicuously intrested in Signal Theory, Generative Models, and Computer Vision.
 
 # Public Projects
 
