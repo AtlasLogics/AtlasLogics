@@ -8,6 +8,10 @@ Conspicuously intrested in Signal Theory, Generative Models, and Computer Vision
 # Public Projects
 
 <li> <a href="https://github.com/MIMIC-LOGICS">MIMIC </li>
+  
+# Blog
+  
+<li> <a href="atlaslogics.github.io">Beyond CAPTCHAs</li>
 
 # Contact
 
