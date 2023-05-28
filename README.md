@@ -11,7 +11,7 @@ Conspicuously intrested in Signal Theory, Generative Models, and Computer Vision
   
 # Blog
   
-<li> <a href="atlaslogics.github.io">Beyond CAPTCHAs</li>
+<li> <a href="http://atlaslogics.github.io">Beyond CAPTCHAs</li>
 
 # Contact
 
