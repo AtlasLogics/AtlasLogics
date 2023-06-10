@@ -15,7 +15,7 @@ Conspicuously intrested in Signal Theory, Generative Models, and Computer Vision
 
 # Contact
 
-<li> <b>Discord</b>: Atlas#6355 </li>
+<li> <b>Discord</b>: atlas.logics </li>
 <li> <b>Linkedin</b>: https://www.linkedin.com/in/alessandro-capriati-b4485521b/ </li>
 
 
