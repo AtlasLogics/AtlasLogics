@@ -1,6 +1,6 @@
 ### Who am I?
 
-A Computer Science and Automation Engineer from Politecnico Di Bari.
+Alessandro Nicola Capriati, A Computer Science and Automation Engineer from Politecnico Di Bari.
 I am fascinated by anything that concerns BOT and ANTIBOT protections or bypassing.
 
 Conspicuously intrested in Signal Theory, Generative Models, and Computer Vision.
@@ -16,6 +16,6 @@ Conspicuously intrested in Signal Theory, Generative Models, and Computer Vision
 # Contact
 
 <li> <b>Discord</b>: atlas.logics </li>
-<li> <b>Linkedin</b>: <a href="https://www.linkedin.com/in/alessandro-capriati-b4485521b/"> HERE </a> </li>
+<li> <b>Linkedin</b>: <a href="https://www.linkedin.com/in/alessandro-nicola-capriati-b4485521b/"> HERE </a> </li>
 
 
